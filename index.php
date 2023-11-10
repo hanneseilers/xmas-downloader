@@ -10,9 +10,11 @@
 
     <div class="d-flex justify-content-center align-items-center h-100 w-100 p-5">
         <div class="bg-light p-3">
+            <div class="d-flex justify-content-center w-100">
             <?php
                 require_once 'download.php';
             ?>
+            </div>
 
             <form action="index.php" method="get">
                 <label>

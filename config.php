@@ -1,5 +1,6 @@
 <?php
 // ---- CONFIG ----
-$file_download_directory = "downloads/";		// subdirectory where to look or the requested files
-$file_name_pattern = "<CODE>.pdf";		// add <CODE> where code should be added
+$file_download_directory = "download/";		// subdirectory where to look or the requested files
+$file_download_codes = "codes.csv";             // csv file containing codes (first column) and corresponding file name (seconds column)
+$file_csv_separator = ';';                      // separator character of the csv file
 // --------
