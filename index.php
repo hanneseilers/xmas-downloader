@@ -1,4 +1,4 @@
-<html>
+<html lang="de">
 
 	<head>
 		<title>XMAS-Downloader</title>
